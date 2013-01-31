@@ -1,0 +1,6 @@
+{
+    "name": "Zynesis Composer Repository",
+    "repositories": [
+        { "type": "git", "url": "git://github.com/zynesis/twitter-bootstrap-helper.git" }
+    ]
+}
