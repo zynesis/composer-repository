@@ -1,6 +1,9 @@
 {
     "name": "Zynesis Composer Repository",
+    "homepage": "http://zynesis.github.com/composer-repository/",
     "repositories": [
         { "type": "git", "url": "git://github.com/zynesis/twitter-bootstrap-helper.git" }
-    ]
+    ],
+    "require-all": true,
+    "output-dir": "gh-pages/"
 }
