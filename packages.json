@@ -11,8 +11,8 @@
                     "reference": "3.0.1"
                 },
                 "require": {
-                    "php": ">=5.2.0",
-                    "composer/installers": "*"
+                    "composer/installers": "*",
+                    "php": ">=5.2.0"
                 },
                 "time": "2012-12-26 05:24:36",
                 "type": "cakephp-plugin",
@@ -22,9 +22,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
+                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap",
-                    "bootstrap"
+                    "twitter bootstrap"
                 ]
             },
             "3.0.2": {
@@ -37,8 +37,8 @@
                     "reference": "3.0.2"
                 },
                 "require": {
-                    "php": ">=5.2.0",
-                    "composer/installers": "1.*"
+                    "composer/installers": "1.*",
+                    "php": ">=5.2.0"
                 },
                 "time": "2013-01-31 03:21:58",
                 "type": "cakephp-plugin",
@@ -51,9 +51,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
+                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap",
-                    "bootstrap"
+                    "twitter bootstrap"
                 ]
             },
             "dev-3.0-zynesis": {
@@ -63,13 +63,13 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/zynesis/twitter-bootstrap-helper.git",
-                    "reference": "6bc7814958a0a3534c6b48915443f76e76950a58"
+                    "reference": "59c7ccc57f693fd65b67c95057562b5429ed5162"
                 },
                 "require": {
-                    "php": ">=5.2.0",
-                    "composer/installers": "1.*"
+                    "composer/installers": "1.*",
+                    "php": ">=5.2.0"
                 },
-                "time": "2013-01-31 03:21:58",
+                "time": "2013-02-18 05:45:50",
                 "type": "cakephp-plugin",
                 "extra": {
                     "installer-name": "TwitterBootstrap"
@@ -80,9 +80,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
+                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap",
-                    "bootstrap"
+                    "twitter bootstrap"
                 ]
             }
         }
