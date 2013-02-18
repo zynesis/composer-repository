@@ -12,5 +12,5 @@ http://zynesis.github.com/composer-repository/
 ## Update
 
 1. Edit `satis.json` and add/remove repositories.
-2. `php bin/compile build`
+2. `bin/satis build`
 3. Copy the content in `gh-pages` into [`gh-pages` branch](https://github.com/zynesis/composer-repository/tree/gh-pages) of this repository.
