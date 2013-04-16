@@ -1,8 +1,8 @@
 {
     "packages": {
-        "zynesis/chosen-cakephp": {
+        "paulredmond/chosen-cakephp": {
             "2.0.0": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.0.0",
                 "version_normalized": "2.0.0.0",
                 "source": {
@@ -11,8 +11,8 @@
                     "reference": "2.0.0"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.5",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.5"
                 },
                 "time": "2011-12-10 21:35:31",
                 "type": "library",
@@ -32,12 +32,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and 2.0",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.0.3": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.0.3",
                 "version_normalized": "2.0.3.0",
                 "source": {
@@ -46,8 +46,8 @@
                     "reference": "2.0.3"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.8",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.8"
                 },
                 "time": "2012-07-11 05:41:01",
                 "type": "library",
@@ -67,12 +67,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.0.6": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.0.6",
                 "version_normalized": "2.0.6.0",
                 "source": {
@@ -81,8 +81,8 @@
                     "reference": "2.0.6"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.8",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.8"
                 },
                 "time": "2012-12-24 07:46:38",
                 "type": "library",
@@ -102,12 +102,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.0.7": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.0.7",
                 "version_normalized": "2.0.7.0",
                 "source": {
@@ -116,8 +116,8 @@
                     "reference": "2.0.7"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.11",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.11"
                 },
                 "time": "2013-01-06 06:00:27",
                 "type": "library",
@@ -137,12 +137,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.0.x-dev": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.0.x-dev",
                 "version_normalized": "2.0.9999999.9999999-dev",
                 "source": {
@@ -151,8 +151,8 @@
                     "reference": "406fb213ce9648ea4bab2b16742b13ad724a6eb1"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.11",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.11"
                 },
                 "time": "2013-01-06 06:00:27",
                 "type": "library",
@@ -172,12 +172,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.1.0": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.1.0",
                 "version_normalized": "2.1.0.0",
                 "source": {
@@ -186,8 +186,8 @@
                     "reference": "2.1.0"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.11",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.11"
                 },
                 "time": "2013-01-13 05:20:26",
                 "type": "library",
@@ -207,12 +207,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2.1",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.1.1": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.1.1",
                 "version_normalized": "2.1.1.0",
                 "source": {
@@ -221,8 +221,8 @@
                     "reference": "2.1.1"
                 },
                 "require": {
-                    "composer/installers": "dev-master",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "dev-master"
                 },
                 "time": "2013-01-24 05:12:14",
                 "type": "cakephp-plugin",
@@ -245,12 +245,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.1.2": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.1.2",
                 "version_normalized": "2.1.2.0",
                 "source": {
@@ -259,8 +259,8 @@
                     "reference": "2.1.2"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-01-31 05:02:54",
                 "type": "cakephp-plugin",
@@ -283,12 +283,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "2.1.x-dev": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "2.1.x-dev",
                 "version_normalized": "2.1.9999999.9999999-dev",
                 "source": {
@@ -297,8 +297,8 @@
                     "reference": "7c8c48d0e81c4991ca4806750e27d44195a5b76c"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-01-31 05:02:41",
                 "type": "cakephp-plugin",
@@ -321,12 +321,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "dev-master": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
@@ -335,8 +335,8 @@
                     "reference": "6e54370765065a68ed62b9aa417e927cfbce07c3"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-01-31 10:00:13",
                 "type": "cakephp-plugin",
@@ -359,12 +359,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "dev-2.0-develop": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "dev-2.0-develop",
                 "version_normalized": "dev-2.0-develop",
                 "source": {
@@ -373,8 +373,8 @@
                     "reference": "406fb213ce9648ea4bab2b16742b13ad724a6eb1"
                 },
                 "require": {
-                    "harvesthq/chosen": "0.9.11",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "harvesthq/chosen": "0.9.11"
                 },
                 "time": "2013-01-06 06:00:27",
                 "type": "library",
@@ -394,12 +394,12 @@
                 "description": "Chosen CakePHP plugin for CakePHP 1.3 and CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "dev-2.1-develop": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "dev-2.1-develop",
                 "version_normalized": "dev-2.1-develop",
                 "source": {
@@ -408,8 +408,8 @@
                     "reference": "f3dee0123b8d984ce5500799648c034642fad02c"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-01-31 04:56:42",
                 "type": "cakephp-plugin",
@@ -432,24 +432,24 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/paulredmond/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             },
             "dev-master-zynesis": {
-                "name": "zynesis/chosen-cakephp",
+                "name": "paulredmond/chosen-cakephp",
                 "version": "dev-master-zynesis",
                 "version_normalized": "dev-master-zynesis",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/zynesis/chosen-cakephp.git",
-                    "reference": "27b034088433bb0ec80bdf8a27144b811bc73d1d"
+                    "reference": "a9cc3edd179df63dd5a23c3fe8ca1261da1632ae"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.6"
+                    "php": ">=5.2.6",
+                    "composer/installers": "1.*"
                 },
-                "time": "2013-04-16 04:01:30",
+                "time": "2013-04-16 05:34:14",
                 "type": "cakephp-plugin",
                 "extra": {
                     "installer-name": "Chosen"
@@ -470,8 +470,8 @@
                 "description": "Chosen CakePHP plugin for CakePHP 2",
                 "homepage": "https://github.com/zynesis/chosen-cakephp",
                 "keywords": [
-                    "cakephp",
-                    "plugin"
+                    "plugin",
+                    "cakephp"
                 ]
             }
         },
@@ -486,8 +486,8 @@
                     "reference": "3.0.1"
                 },
                 "require": {
-                    "composer/installers": "*",
-                    "php": ">=5.2.0"
+                    "php": ">=5.2.0",
+                    "composer/installers": "*"
                 },
                 "time": "2012-12-26 05:24:36",
                 "type": "cakephp-plugin",
@@ -497,9 +497,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
-                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap"
+                    "twitter bootstrap",
+                    "bootstrap"
                 ]
             },
             "3.0.2": {
@@ -512,8 +512,8 @@
                     "reference": "3.0.2"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.0"
+                    "php": ">=5.2.0",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-01-31 03:21:58",
                 "type": "cakephp-plugin",
@@ -526,9 +526,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
-                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap"
+                    "twitter bootstrap",
+                    "bootstrap"
                 ]
             },
             "dev-3.0-zynesis": {
@@ -541,8 +541,8 @@
                     "reference": "0a4c5508e7e9fc69867c54d8a62c9dddcf3abf89"
                 },
                 "require": {
-                    "composer/installers": "1.*",
-                    "php": ">=5.2.0"
+                    "php": ">=5.2.0",
+                    "composer/installers": "1.*"
                 },
                 "time": "2013-03-15 08:34:16",
                 "type": "cakephp-plugin",
@@ -555,9 +555,9 @@
                 "description": "TwitterBootstrapHelper that is compatible with CakePHP v2.x FormHelper, forked from loadsys/twitter-bootstrap-helper",
                 "homepage": "http://zynesis.com",
                 "keywords": [
-                    "bootstrap",
                     "cakephp",
-                    "twitter bootstrap"
+                    "twitter bootstrap",
+                    "bootstrap"
                 ]
             }
         }
