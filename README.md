@@ -2,7 +2,7 @@
 
 Zynesis own Composer repository for in-house use with forked or non-open packages, or semi-open packages that we do not want to pollute Packagist with.
 
-http://zynesis.github.com/composer-repository/
+http://zynesis.github.io/composer-repository/
 
 ## Set up
 
