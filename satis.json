@@ -1,10 +1,32 @@
 {
-    "name": "Zynesis Composer Repository",
     "homepage": "http://zynesis.github.com/composer-repository/",
+    "name": "Zynesis Composer Repository",
+    "output-dir": "gh-pages/",
     "repositories": [
-        { "type": "git", "url": "git://github.com/zynesis/twitter-bootstrap-helper.git" },
-        { "type": "git", "url": "git://github.com/zynesis/chosen-cakephp.git" }
+        {
+            "type": "git",
+            "url": "git://github.com/zynesis/twitter-bootstrap-helper.git"
+        },
+        {
+            "type": "git",
+            "url": "git://github.com/zynesis/chosen-cakephp.git"
+        },
+        {
+            "package": {
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.6.zip"
+                },
+                "name": "cakephp/cakephp",
+                "source": {
+                    "reference": "tree/2.3.6/",
+                    "type": "git",
+                    "url": "https://github.com/cakephp/cakephp/"
+                },
+                "version": "2.3.6"
+            },
+            "type": "package"
+        }
     ],
-    "require-all": true,
-    "output-dir": "gh-pages/"
+    "require-all": true
 }
