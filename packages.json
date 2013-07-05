@@ -17,6 +17,23 @@
                     "shasum": null
                 },
                 "type": "library"
+            },
+            "2.3.7": {
+                "name": "cakephp/cakephp",
+                "version": "2.3.7",
+                "version_normalized": "2.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/cakephp/cakephp/",
+                    "reference": "tree/2.3.7/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.7.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "library"
             }
         },
         "zynesis/chosen-cakephp": {
