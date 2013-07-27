@@ -42,6 +42,22 @@
                 "version": "2.3.7"
             },
             "type": "package"
+        },
+        {
+            "package": {
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.8.zip"
+                },
+                "name": "cakephp/cakephp",
+                "source": {
+                    "reference": "tree/2.3.8/",
+                    "type": "git",
+                    "url": "https://github.com/cakephp/cakephp/"
+                },
+                "version": "2.3.8"
+            },
+            "type": "package"
         }
     ],
     "require-all": true
