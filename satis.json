@@ -58,6 +58,18 @@
                 "version": "2.3.8"
             },
             "type": "package"
+        },
+        {
+            "package": {
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/b5edcba309bb49326a673d94cb56c17aa8da1c10.zip"
+                },
+                "name": "cakephp/cakephp",
+				"description": "CakePHP unofficial patch release v2.3.8.1",
+                "version": "2.3.8.1"
+            },
+            "type": "package"
         }
     ],
     "require-all": true
