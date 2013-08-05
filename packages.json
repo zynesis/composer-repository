@@ -509,13 +509,13 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/zynesis/chosen-cakephp.git",
-                    "reference": "1f92133769fb3d9e2974f2654e43cd7927715a9f"
+                    "reference": "23a7db36fae559814d5cb1532da4a34c84e8c50c"
                 },
                 "require": {
                     "composer/installers": "1.*",
                     "php": ">=5.2.6"
                 },
-                "time": "2013-04-17 06:24:21",
+                "time": "2013-08-05 07:06:55",
                 "type": "cakephp-plugin",
                 "extra": {
                     "installer-name": "Chosen"
