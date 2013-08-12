@@ -64,6 +64,18 @@
                 },
                 "type": "library",
                 "description": "CakePHP unofficial patch release v2.3.8.1"
+            },
+            "2.3.9": {
+                "name": "cakephp/cakephp",
+                "version": "2.3.9",
+                "version_normalized": "2.3.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.9.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "library"
             }
         },
         "zynesis/chosen-cakephp": {
