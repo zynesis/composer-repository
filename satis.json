@@ -1,5 +1,5 @@
 {
-    "homepage": "http://zynesis.github.com/composer-repository/",
+    "homepage": "http://zynesis.github.io/composer-repository/",
     "name": "Zynesis Composer Repository",
     "output-dir": "gh-pages/",
     "repositories": [
@@ -68,6 +68,17 @@
                 "name": "cakephp/cakephp",
 				"description": "CakePHP unofficial patch release v2.3.8.1",
                 "version": "2.3.8.1"
+            },
+            "type": "package"
+        },
+        {
+            "package": {
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.9.zip"
+                },
+                "name": "cakephp/cakephp",
+                "version": "2.3.9"
             },
             "type": "package"
         }
