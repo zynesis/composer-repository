@@ -1,6 +1,18 @@
 {
     "packages": {
         "cakephp/cakephp": {
+            "2.3.10": {
+                "name": "cakephp/cakephp",
+                "version": "2.3.10",
+                "version_normalized": "2.3.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.3.10.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "library"
+            },
             "2.3.6": {
                 "name": "cakephp/cakephp",
                 "version": "2.3.6",
@@ -72,6 +84,18 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/cakephp/cakephp/archive/2.3.9.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "library"
+            },
+            "2.4.0": {
+                "name": "cakephp/cakephp",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.4.0.zip",
                     "reference": null,
                     "shasum": null
                 },
