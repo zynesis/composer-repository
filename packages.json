@@ -681,13 +681,13 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/zynesis/twitter-bootstrap-helper.git",
-                    "reference": "e55986ce11892455eb3e99466b0ee002860c6d9d"
+                    "reference": "8bc085335d83ec744eb934c7ca5bb9e448550e3a"
                 },
                 "require": {
                     "composer/installers": "1.*",
                     "php": ">=5.2.0"
                 },
-                "time": "2013-09-23 06:57:08",
+                "time": "2013-09-30 06:42:43",
                 "type": "cakephp-plugin",
                 "extra": {
                     "installer-name": "TwitterBootstrap"
