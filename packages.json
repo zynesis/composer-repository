@@ -112,6 +112,18 @@
                     "shasum": null
                 },
                 "type": "library"
+            },
+            "2.4.2": {
+                "name": "cakephp/cakephp",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.4.2.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "library"
             }
         },
         "zynesis/chosen-cakephp": {
