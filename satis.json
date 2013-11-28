@@ -125,6 +125,17 @@
                     "url": "https://github.com/cakephp/cakephp/archive/2.4.2.zip"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "cakephp/cakephp",
+                "version": "2.4.3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cakephp/cakephp/archive/2.4.3.zip"
+                }
+            }
         }
     ],
     "require-all": true
